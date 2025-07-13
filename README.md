@@ -1,16 +1,20 @@
-# flutter_google_docs_clone
+# 📝 Flutter Google Docs Clone
 
-A new Flutter project.
+A simple Google Docs clone built with Flutter using the **FlutterQuill** rich text editor. This project focuses on document editing with rich formatting features and a minimal interface — all local, no backend.
+## 🎥 Demo
 
-## Getting Started
+[![Watch the demo]()
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Rich text editor (bold, italic, underline, lists, links)
+- Google Docs-like editing experience
+- Built with Flutter & Dart
+- No backend — local editing only
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/yourusername/flutter-docs-clone.git
+cd flutter-docs-clone
+flutter pub get
+flutter run
